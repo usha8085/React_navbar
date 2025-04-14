@@ -40,27 +40,3 @@
 .read-the-docs {
   color: #888;
 } */
-/* .head{
-  color: red;
-} */
-
-.navbar{
-  background-color: cadetblue;
-}
-.navbar nav ul{
-  display: flex;
-  gap: 20px;
-  height: 80px;
-}
-.navbar nav ul li a{
-  text-decoration: none;
-  justify-content: center;
-  align-items: center;
-  color: red;
-
-}
-.navbar nav ul li{
-  text-decoration: none;
-  font-size: 20px;
-  padding: 25px;
-}
